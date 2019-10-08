@@ -1,7 +1,7 @@
 
 
-let removeDups = () => {
-
+let removeDups = (list) => {
+    return true;
 }
 
 
